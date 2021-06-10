@@ -7,13 +7,13 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Streams-Extractor/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Streams-Extractor?style=social">
+  <a href="https://github.com/Sharihulshanish/Streams-Extractor/stargazers">
+    <img src="https://img.shields.io/github/stars/Sharihulshanish/Streams-Extractor?style=social">
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Streams-Extractor/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Streams-Extractor?label=Fork&style=social">
+  <a href="https://github.com/Sharihulshanish/Streams-Extractor/fork">
+    <img src="https://img.shields.io/github/forks/Sharihulshanish/Streams-Extractor?label=Fork&style=social">
 
   </a>  
 </p>
@@ -34,11 +34,11 @@
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Streams-Extractor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sharihulshanish/Streams-Extractor)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Streams-Extractor
+git clone https://github.com/Sharihulshanish/Streams-Extractor
 cd Streams-Extractor
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
