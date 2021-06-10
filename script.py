@@ -25,14 +25,14 @@ See <i>help</i> for more details.</b>"""
 🌀 <i>Now select the stream you need to extract!</i>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Streams Extractor Bot</b>
+    ABOUT_MSG = """⚫<b>My Name : Streams Extractor Bot</b>
 
-⭕️<b>Creater :</b> @sharihul_shanish    
+⚫<b>Creater :</b> @sharihul_shanish    
 
-⭕️<b>Channel :</b> @sharihulshanish
+⚫<b>Channel :</b> @sharihulshanish
 
-⭕️<b>Language :</b> <code>Python3</code>
+⚫<b>Language :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⚫<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
 """
