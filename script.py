@@ -11,9 +11,7 @@ I can extract audio and subtitles from video files.
 
 Send me any video file and extract what you want :).
 
-See <i>help</i> for more details.
-
-© @TroJanzHEX</b>"""
+See <i>help</i> for more details.</b>"""
 
 
     HELP_MSG = """<b>Hai, Follow these Steps..</b>
@@ -24,14 +22,14 @@ See <i>help</i> for more details.
 
 🌀 <i>Wait till I process the video!</i>
 
-🌀 <i>Now select the stream you need to extract!</i>
-
-<b>© @TroJanzHEX</b>"""
+🌀 <i>Now select the stream you need to extract!</i>"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : Streams Extractor Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @sharihul_shanish    
+
+⭕️<b>Channel :</b> @sharihulshanish
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
